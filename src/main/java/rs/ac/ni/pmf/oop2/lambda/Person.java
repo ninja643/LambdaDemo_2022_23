@@ -20,7 +20,7 @@ public class Person
 	private final String name;
 	private final Gender gender;
 	private final LocalDate birthday;
-	private String email;
+	private final String email;
 
 	public int getAge()
 	{
